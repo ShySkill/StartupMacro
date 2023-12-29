@@ -4,7 +4,7 @@ This script is utilized for the game Bee Swarm Simulator on roblox and works wit
 
 # To run:
 
-First, Extract the folder called StartupMacro-main.zip
+First, Download the code by clicking the green "code" ---> download zip button, and Extract the folder called StartupMacro-main.zip when it is finished.
 
 Second, change your directory to the working one. 
 ```

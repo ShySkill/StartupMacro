@@ -13,7 +13,7 @@ cd Downloads\StartupMacro-main\StartupMacro-main
 Third, download the required packages
 Open your command prompt and paste this in.
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 then run the file by pasting this into command prompt
 ```

@@ -59,7 +59,7 @@ def loadWindowsAndWait():
         print("Countdown: " + str(i))
 
 def main():
-    loadWindowsAndWait();
+    loadWindowsAndWait()
     startUpRoblox()
     startUpNatro()
 

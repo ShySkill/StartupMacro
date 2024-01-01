@@ -27,6 +27,7 @@ def startUpRoblox():
 
 def startUpNatro():
     try:
+        #an example of this would be C:\Users\User\Downloads\Natro_Macro_v0.9.8\Natro Macro v0.9.8
         natro_path = r'put the path to your natro folder here (copy path on file explorer)'
         os.system(f'cmd /c "cd {natro_path} && START.bat"')
         time.sleep(10)

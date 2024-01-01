@@ -3,6 +3,7 @@ import time, keyboard, webbrowser, pyautogui, subprocess, os
 #starts up roblox and claims the hive
 def startUpRoblox():
     #opens roblox and waits for it to load (30 seconds for 2.50ghz+, 60 seconds for )
+    #put your vip server link. It should look like: webbrowser.open_new('https://www.roblox.com/share?code=203f00aa3&type=Server')
     webbrowser.open_new('put your vip server in here') 
     time.sleep(40)
 
@@ -28,7 +29,7 @@ def startUpRoblox():
 def startUpNatro():
     try:
         #an example of this would be C:\Users\User\Downloads\Natro_Macro_v0.9.8\Natro Macro v0.9.8
-        natro_path = r'put the path to your natro folder here (copy path on file explorer)'
+        natro_path = r'C:\Users\User\Downloads\Natro_Macro_v0.9.8\Natro Macro v0.9.8'
         os.system(f'cmd /c "cd {natro_path} && START.bat"')
         time.sleep(10)
         keyboard.press("F1")

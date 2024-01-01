@@ -55,7 +55,11 @@ python ShySkill-Macro-V1.0.py
 5. Create a new trigger and under begin the task put 'At Startup"
 6. Then go to Actions and put in the following:
 7. Action: Start a program
-8.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python, and then clicking open file location and clicking copy path. (add the image of the documentation.)
+8.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python, and then clicking open file location and clicking copy path.
+
+<img src="documentation\documentationpycopypath.PNG" alt="pythonpath" width="600" height="400">
+
+
 9.  In the arguments section, put the path of the startup macro python file. Example: "C:\Users\ShySkill\Downloads\StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0\ShySkill-Macro-V1.0.py"
 10.  For the start in section, just leave it blank. Then you can press Ok and then Ok.
 

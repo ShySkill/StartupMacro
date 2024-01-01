@@ -54,7 +54,7 @@ def phk(key, duration):
     keyboard.release(key)
 
 def loadWindowsAndWait():
-    print("Python File Executed. Launching VIP server link to Bee Swarm Simulator")
+    print("Python File Executed. Launching VIP server link to Bee Swarm Simulator in 10 seconds. ")
     print("StartupMacro is succesfully running.")
     
     for i in range(0, 10):

@@ -14,12 +14,14 @@ Example: I want to start macroing everyday at 2:00AM. I set up auto start in BIO
 
 # First, edit the file
 To be able to run this startup macro, you need to make sure that your vip server link and natro are put into the python script.
-1. First, Download the code by clicking the green "code" ---> download zip button, and Extract the folder called StartupMacro-main.zip when it is finished.
-2. Go to the python file, right click it, and open it with notepad.
+1. First, Download the code by clicking the green "code" button on this github page in the top right corner.  ---> then press download zip and Extract the folder called StartupMacro-main.zip when it is finished in file explorer.
+  
+2. Go to the python file (just click through the folders until you find it. Path is here: StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0 ).
+3. Right click the file, and open it with notepad.
 
-DO NOT CHANGE anything else, just put your vip server where it says to do so, and put the link to the path of your natro macro folder.
+4. DO NOT CHANGE anything else, just put your vip server where it says to do so, and put the link to the path of your natro macro folder.
 
-3. Then press Ctrl + s and close out of notepad. 
+5. Then press Ctrl + s and close out of notepad. 
 
 You are done with this step!
 

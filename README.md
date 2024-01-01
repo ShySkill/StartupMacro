@@ -4,7 +4,7 @@ This script is utilized for the game Bee Swarm Simulator on roblox and works wit
 # What does StartupMacro do?
 StartupMacro is a script written in python that starts up roblox bee swarm simulator, claims the hive, and starts Natro Macro without the user having to do any extra input. This makes it easy to automate starting Macroing on bee swarm simulator. You can set this up with task scheduler. 
 
-Example: I want to start macroing everyday at 2:00AM. I can make an action with task scheduler using this python file so that it will start macroing with no input whatsoever. 
+Example: I want to start macroing everyday at 2:00AM. I set up auto start in BIOS so that my computer will start up at a certain time, then it will log in automatically and run this script so that my character will start macroing while i'm asleep. I can make an action with task scheduler so my computer runs this script when the computer turns on using this python file so that it will start macroing with no input whatsoever. 
 
 # Requirements:
 1. Python 3.0 or higher: https://www.youtube.com/watch?v=yivyNCtVVDk (tutorial on how to install python) 

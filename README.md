@@ -10,6 +10,7 @@ Example: I want to start macroing everyday at 2:00AM. I set up auto start in BIO
 1. Python 3.0 or higher: https://www.youtube.com/watch?v=yivyNCtVVDk (tutorial on how to install python) 
 2. A link to a vip server on the game Bee Swarm Simulator on roblox
 3. Natro macro installed: https://github.com/NatroTeam/NatroMacro
+4. Basic understanding of file paths.
 
 # First, edit the file
 To be able to run this startup macro, you need to make sure that your vip server link and natro are put into the python script.
@@ -55,6 +56,12 @@ python ShySkill-Macro-V1.0.py
 8.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python, and then clicking open file location and clicking copy path. (add the image of the documentation.)
 9.  In the arguments section, put the path of the startup macro python file. Example: "C:\Users\ShySkill\Downloads\StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0\ShySkill-Macro-V1.0.py"
 10.  For the start in section, just leave it blank. Then you can press Ok and then Ok.
+
+Now everytime you turn your computer on, you will start macroing without any input.
+
+# How do I make my computer turn on at a certain time and then turn off at a certain time?
+
+This video should cover everything that you need to know. https://www.youtube.com/watch?v=JkasnSp0x9o
 
 Then you should be set up! Message me on discord or open an issue if there are any problems. 
 

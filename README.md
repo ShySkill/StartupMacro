@@ -2,9 +2,9 @@
 This script is utilized for the game Bee Swarm Simulator on roblox and works with any resolution. You must be using Windows OS and have python installed.
 
 # Requirements:
-Python 3.0 or higher: https://www.youtube.com/watch?v=yivyNCtVVDk (tutorial on how to install python) 
-A vip server
-Natro macro installed: https://github.com/NatroTeam/NatroMacro
+1. Python 3.0 or higher: https://www.youtube.com/watch?v=yivyNCtVVDk (tutorial on how to install python) 
+2. A link to a vip server on the game Bee Swarm Simulator on roblox
+3. Natro macro installed: https://github.com/NatroTeam/NatroMacro
 
 # First, edit the file
 To be able to run this startup macro, you need to make sure that your vip server link and natro are put into the python script.

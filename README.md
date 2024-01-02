@@ -54,8 +54,8 @@ python ShySkill-Macro-V1.0.py
 1. Click the windows home button and type in task scheduler.
 2. Once in task scheduler, go to the "Task Scheduler Library" folder on the left hand side.
 3. Click "Create Task"
-4. Give the task a name and desc (optional), and check the box that says "Run whether user is logged on or not"
-5. Create a new trigger and under begin the task put 'At Startup"
+4. Give the task a name and desc (optional), and check the box that says "Run only when user is logged on"
+5. Create a new trigger and under begin the task put 'At log on of user " and then put your user. 
 
     <img src="documentation\trigger.PNG" alt="pythonpath" width="600" height="600">
 

@@ -1,13 +1,16 @@
 import time, keyboard, webbrowser, pyautogui, subprocess, os
+#pyautogui image checking coming soon ^ 
 
 #starts up roblox and claims the hive
 def startUpRoblox():
-    #opens roblox and waits for it to load (30 seconds for 2.50ghz+, 60 seconds for )
+    #opens roblox and waits for it to load 
     #put your vip server link. It should look like: webbrowser.open_new('https://www.roblox.com/share?code=203f00aa3&type=Server')
     webbrowser.open_new('put your vip server in here') 
     #put your vip server link here ^
-    time.sleep(40)
-
+    
+    time.sleep(60)
+    #60 seconds is a baseline for most systems, if you have a faster system then you can shorten the wait time above ^
+    
     #roblox has finished loading and you are now waiting at spawn
 
     #closes the browser to minimize CPU usage

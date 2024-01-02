@@ -73,6 +73,9 @@ python ShySkill-Macro-V1.0.py
 
 
 9.  In the arguments section, put the path of the startup macro python file. Example: "C:\Users\ShySkill\Downloads\StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0\ShySkill-Macro-V1.0.py"
+
+<img src="documentation\pathofpyfile.PNG" alt="pathofshyskillmacro" width="600" height="600">
+
 10.  For the start in section, just leave it blank. Then you can press Ok and then Ok.
 
 Now everytime you turn your computer on, you will start macroing without any input.
@@ -80,6 +83,7 @@ Now everytime you turn your computer on, you will start macroing without any inp
 # How do I make my computer turn on at a certain time and then turn off at a certain time?
 
 This video should cover everything that you need to know. https://www.youtube.com/watch?v=JkasnSp0x9o
+Just follow the tutorial and your computer should start up and shutdown whenever you want, and when it starts up this script will be run and you will start to macro if you have done all of the above steps correctly.
 
 Then you should be set up! Message me on discord or open an issue if there are any problems. 
 

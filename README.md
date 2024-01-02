@@ -66,7 +66,7 @@ python ShySkill-Macro-V1.0.py
 
     <img src="documentation\editaction.PNG" alt="pythonpath" width="600" height="600">
     
-8.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python, and then clicking open file location and clicking copy path.
+8.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python.exe, and then clicking open file location and clicking copy path.
 
 <img src="documentation\documentationpycopypath.PNG" alt="pythonpath" width="600" height="400">
 

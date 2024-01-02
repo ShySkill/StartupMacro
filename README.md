@@ -83,6 +83,7 @@ Now everytime you turn your computer on, you will start macroing without any inp
 # How do I make my computer turn on at a certain time and then turn off at a certain time?
 
 This video should cover everything that you need to know. https://www.youtube.com/watch?v=JkasnSp0x9o
+
 Just follow the tutorial and your computer should start up and shutdown whenever you want, and when it starts up this script will be run and you will start to macro if you have done all of the above steps correctly.
 
 Then you should be set up! Message me on discord or open an issue if there are any problems. 

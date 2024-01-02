@@ -55,20 +55,21 @@ python ShySkill-Macro-V1.0.py
 2. Once in task scheduler, go to the "Task Scheduler Library" folder on the left hand side.
 3. Click "Create Task"
 4. Give the task a name and desc (optional), and check the box that says "Run only when user is logged on"
-5. Create a new trigger and under begin the task put 'At log on of user " and then put your user. 
+   <img src="documentation\firstpage.PNG" alt="pythonpath" width="600" height="600">
+6. Create a new trigger and under begin the task put 'At log on of user " and then put your user. 
 
-    <img src="documentation\trigger.PNG" alt="pythonpath" width="600" height="600">
-
-
-6. Then go to Actions and put in the following:
-7. Action: Start a program
+    <img src="documentation\finaltrigger.PNG" alt="pythonpath" width="600" height="600">
 
 
-    <img src="documentation\editaction.PNG" alt="pythonpath" width="600" height="600">
+7. Then go to Actions and put in the following:
+8. Action: Start a program
+
+
+    <img src="documentation\editactionreal.png" alt="pythonpath" width="600" height="600">
     
-8.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python.exe, and then clicking open file location and clicking copy path.
+9.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python.exe, and then clicking open file location and clicking copy path.
 
-<img src="documentation\documentationpycopypath.PNG" alt="pythonpath" width="600" height="400">
+<img src="documentation\documentationpath.PNG" alt="pythonpath" width="600" height="400">
 
 
 9.  In the arguments section, put the path of the startup macro python file. Example: "C:\Users\ShySkill\Downloads\StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0\ShySkill-Macro-V1.0.py"

@@ -14,6 +14,7 @@ Example: I want to start macroing everyday at 2:00AM. I set up auto start in BIO
 2. A link to a vip server on the game Bee Swarm Simulator on roblox
 3. Natro macro installed: https://github.com/NatroTeam/NatroMacro
 4. Basic understanding of file paths.
+5. No progams that launch and make a visible window during startup
 
 # First, edit the file
 To be able to run this startup macro, you need to make sure that your vip server link and natro are put into the python script.

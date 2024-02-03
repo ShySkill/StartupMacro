@@ -165,7 +165,7 @@ def phk(key, duration):
 countdown = 10
 
 def loadWindowsAndWait():
-    print("Python File Executed. Launching VIP server link to Bee Swarm Simulator in 10 seconds. ")
+    print("Python File Executed. Launching VIP server link to Bee Swarm Simulator in " + str(countdown) + " seconds. ")
     print("StartupMacro is succesfully running.")
     
     for i in range(0, countdown):

@@ -162,7 +162,7 @@ def phk(key, duration):
 
 #change this if needed
 #coundown is normally 10 seconds but can be changed.
-countdown = 3
+countdown = 10
 
 def loadWindowsAndWait():
     print("Python File Executed. Launching VIP server link to Bee Swarm Simulator in 10 seconds. ")
@@ -194,7 +194,3 @@ if __name__ == "__main__":
     main()
     quit()
 
-
-
-
-#TODO: make it so that the vip server will go in a txt file so all people have to do is edit it. 

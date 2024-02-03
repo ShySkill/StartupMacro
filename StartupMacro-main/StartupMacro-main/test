@@ -1,0 +1,14 @@
+import os
+
+def get_folders_in_directory(directory_path):
+    folders = [f for f in os.listdir(directory_path) if os.path.isdir(os.path.join(directory_path, f))]
+    return folders
+
+# Example usage
+directory_path = r"C:\Users\ShySkill\Downloads\Natro Macro"  # Replace with the actual path
+folders_list = get_folders_in_directory(directory_path)
+
+print("List of folders:")
+for folder in folders_list:
+    print(folder[13:20])
+

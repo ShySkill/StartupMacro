@@ -31,7 +31,7 @@ To be able to run this startup macro, you need to make sure that your vip server
 You are done with this step!
 
 # Second, rename your natro macro folder.
-For this to work, you must rename your natro macro folder so the program can find your installation. Rename the folder to "Natro Macro". 
+For this to work, you must rename your natro macro folder so the program can find your installation. Rename the folder to ```Natro Macro``` . and make sure it is in your downloads folder.
 Here is a screenshot of what it should look like:
 
 ![image](https://github.com/ShySkill/StartupMacro/assets/117660637/2d69cbd5-a659-4b61-993e-b4b96cc44724)

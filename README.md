@@ -13,21 +13,28 @@ Example: I want to start macroing everyday at 2:00AM. I set up auto start in BIO
 1. Python 3.0 or higher: https://www.youtube.com/watch?v=yivyNCtVVDk (tutorial on how to install python) 
 2. A link to a vip server on the game Bee Swarm Simulator on roblox
 3. Natro macro installed: https://github.com/NatroTeam/NatroMacro
-4. Basic understanding of file paths.
 5. No progams that launch and make a visible window during startup
 
-# First, edit the file
-To be able to run this startup macro, you need to make sure that your vip server link and natro are put into the python script.
+# First, edit the txt file
+To be able to run this startup macro, you need to make sure that your vip server link is in the txt folder.
 1. First, Download the code by clicking the green "code" button on this github page in the top right corner.  ---> then press download zip and Extract the folder called StartupMacro-main.zip when it is finished in file explorer.
   
-2. Go to the python file (just click through the folders until you find it. Path is here: StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0 ).
+2. Go to the txt file in the folder under "linktoserver.txt" path is here: StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0\linktoserver.txt.
 3. Right click the file, and open it with notepad.
 
-4. DO NOT CHANGE anything else, just put your vip server where it says to do so, and put the link to the path of your natro macro folder.
+4. DO NOT CHANGE anything else, just replace the example private server link with your private server link.
+   ![image](https://github.com/ShySkill/StartupMacro/assets/117660637/92f06286-fbc3-49ac-9bf2-f30550b4e987)
 
-5. Then press Ctrl + s and close out of notepad. 
+
+6. Then press Ctrl + s and close out of notepad. 
 
 You are done with this step!
+
+# Second, rename your natro macro folder.
+For this to work, you must rename your natro macro folder so the program can find your installation. Rename the folder to "Natro Macro". 
+Here is a screenshot of what it should look like:
+
+![image](https://github.com/ShySkill/StartupMacro/assets/117660637/2d69cbd5-a659-4b61-993e-b4b96cc44724)
 
 
 
@@ -40,7 +47,7 @@ Paste this command in
 ```
 cd Downloads\StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0
 ```
-Third, download the required packages
+Third, download the required packages. To do this, 
 paste this in:
 ```
 pip install -r requirements.txt

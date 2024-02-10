@@ -1,5 +1,5 @@
 # StartupMacro
-This script is utilized for the game Bee Swarm Simulator on roblox and works with any resolution. You must be using Windows OS and have python installed. This is also open source so you can have full access to the code to see its capabilities.
+This script is utilized for the game Bee Swarm Simulator on roblox and works with any resolution. You must be using Windows OS versions 10+. This is also open source so you can have full access to the code to see its capabilities.
 
 ![image](https://github.com/ShySkill/StartupMacro/assets/117660637/93c74067-6d81-4cfd-8075-82a804fec777)
 
@@ -11,10 +11,9 @@ StartupMacro is a script written in python that starts up roblox bee swarm simul
 Example: I want to start macroing everyday at 2:00AM. I set up auto start in BIOS so that my computer will start up at a certain time, then it will log in automatically and run this script so that my character will start macroing while i'm asleep. I can make an action with task scheduler so my computer runs this script when the computer turns on using this python file so that it will start macroing with no input whatsoever. 
 
 # Requirements:
-1. Python 3.0 or higher: https://www.youtube.com/watch?v=yivyNCtVVDk (tutorial on how to install python) 
-2. A link to a vip server on the game Bee Swarm Simulator on roblox
-3. Natro macro installed: https://github.com/NatroTeam/NatroMacro
-5. No progams that launch and make a visible window during startup
+1. A link to a vip server on the game Bee Swarm Simulator on roblox
+2. Natro macro installed: https://github.com/NatroTeam/NatroMacro
+3. No progams that launch and make a visible window during startup
 
 # First, edit the txt file
 To be able to run this startup macro, you need to make sure that your vip server link is in the txt folder.

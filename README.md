@@ -66,22 +66,22 @@ python ShySkill-Macro-V1.0.py
    <img src="documentation\firstpage.png" alt="pythonpath" width="600" height="600">
 6. Create a new trigger and under begin the task put 'At log on of user " and then put your user. 
 
-    <img src="StartupMacro-main\StartupMacro-main\documentation\finaltrigger.PNG" alt="pythonpath" width="600" height="600">
+    <img src="documentation\finaltrigger.PNG" alt="pythonpath" width="600" height="600">
 
 7. Then go to Actions and put in the following:
 8. Action: Start a program
 
 
-    <img src="StartupMacro-main\StartupMacro-main\documentation\editactionreal.png" alt="pythonpath" width="600" height="600">
+    <img src="documentation\editactionreal.png" alt="pythonpath" width="600" height="600">
     
 9.  In the program/script box, put the path to your installation of python. You can check this by clicking the windows button, typing python.exe, and then clicking open file location and clicking copy path.
 
-<img src="StartupMacro-main\StartupMacro-main\documentation\documentationpath.PNG" alt="pythonpath" width="600" height="400">
+<img src="documentation\documentationpath.PNG" alt="pythonpath" width="600" height="400">
 
 
 9.  In the arguments section, put the path of the startup macro python file. Example: "C:\Users\ShySkill\Downloads\StartupMacro-main\StartupMacro-main\ShySkill Startup Macro V1.0\ShySkill-Macro-V1.0.py"
 
-<img src="StartupMacro-main\StartupMacro-main\documentation\pathofpyfile.PNG" alt="pathofshyskillmacro" width="600" height="600">
+<img src="documentation\pathofpyfile.PNG" alt="pathofshyskillmacro" width="600" height="600">
 
 10.  For the start in section, just leave it blank. Then you can press Ok and then Ok.
 

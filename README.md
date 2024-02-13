@@ -52,6 +52,8 @@ paste this in:
 ```
 pip install -r requirements.txt
 ```
+if you get any errors saying the module isnt found, manually paste in the module with pip install (said module): If pyautogui isnt found I would do pip install pyautogui
+
 then run the file and test it by pasting this into command prompt
 ```
 python ShySkill-Macro-V1.0.py

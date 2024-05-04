@@ -1,6 +1,8 @@
 # StartupMacro
 This script is utilized for the game Bee Swarm Simulator on roblox and works with any resolution. You must be using Windows OS versions 10+. This is also open source so you can have full access to the code to see its capabilities.
 
+EDIT: Natro Macro now has their own startup feature, making this not optimal. This is still an alternative though
+
 ![image](https://github.com/ShySkill/StartupMacro/assets/117660637/93c74067-6d81-4cfd-8075-82a804fec777)
 
 Recent Updates: Now auto updates Natro when needed, as well as some bug fixes.
